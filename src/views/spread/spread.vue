@@ -1,5 +1,5 @@
 <template>
-  <div class="media-html">
+  <div class="spread-html">
     <mt-header title="我的推广">
       <router-link to="/" slot="left">
         <mt-button icon="back"></mt-button>
